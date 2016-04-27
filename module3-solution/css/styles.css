@@ -1,0 +1,26 @@
+.dish-text {
+	background-color: #cccccc;
+	/*height: 1000px;*/
+}
+p {
+	line-height: 250%;
+	font-size: 1.2em;
+}
+body{ 
+	padding-top: 50px;
+}
+
+a[name] {
+  padding-top: 50px;
+  margin-top: -50px;
+  display: block;
+}
+
+.navbar-nav {
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: #dddddd;
+
+}
+
+
